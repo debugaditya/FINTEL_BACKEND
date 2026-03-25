@@ -1,0 +1,5 @@
+.env
+firebase-service-account.json
+node_modules/
+__pycache__/
+.expo/
